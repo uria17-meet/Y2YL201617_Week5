@@ -9,7 +9,7 @@ In today's lab, you will be refreshing your JavaScript skills and creating a soc
 __PLEASE REMEMBER TO SAVE YOUR WORK AND SUBMIT A PULL REQUEST WHEN YOU ARE FINISHED__
 
 ## Part 1 - JavaScript Basics
-You will be using a cool online editing program called [JSFiddle](http://www.jsfiddle.net) to practice executing your code. Paste your answers in the answers.js file included in this lab.
+You will be using a cool online editing program called [JSFiddle](http://www.jsfiddle.net) to practice executing your code. You can also use the console log in your browser to test your code. Paste your answers in the answers.js file included in this lab.
 
 Perform each of these operations on a seperate line of code.
 ### 1. Variables
