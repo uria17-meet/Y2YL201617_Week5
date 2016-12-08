@@ -3,6 +3,25 @@
 
 <head>
 <link rel="stylesheet" href="styles/styles.css">
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-
+latest.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/
+jquery-ui.min.js"></script>
+<script type="text/javascript">
+
+
+$(document).ready(function() {
+    $('body').click(function() {
+        var firstElement = $(this).first();
+        firstElement.css('background-color', 'red');
+    });
+    $('p').hover(function(){
+    	var secondElement = $(this).first();
+    	secondElement.css('color', 'green');
+    });
+});
+</script>
 </head>
 
 <body>
